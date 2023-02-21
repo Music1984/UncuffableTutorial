@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UncuffableTutorial", "UncuffableTutorial\UncuffableTutorial\UncuffableTutorial.csproj", "{0036B59C-B836-44D8-B130-7AA489C4D00E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0036B59C-B836-44D8-B130-7AA489C4D00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0036B59C-B836-44D8-B130-7AA489C4D00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0036B59C-B836-44D8-B130-7AA489C4D00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0036B59C-B836-44D8-B130-7AA489C4D00E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
